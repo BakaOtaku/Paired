@@ -104,11 +104,20 @@
                     </div>
                     <p class="lead">An app that makes communication with the deaf and dumb smart by converting
                         their hand gestures to text which can be understood by normal person:</p>
+                        {% for d in gif %}
                     <div class="m-3">
                         Output -
-                        <img src="https://www.pngkey.com/png/detail/125-1253766_hi-tumblr-png-transparent-hi.png"
+                        
+
+       
+        
+    
+    
+                        <img src="{{d.photo.url}}"
                             alt="Yes" style="width: 200px; height: 100px;">
+
                     </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
@@ -127,6 +136,9 @@
             <p class="m-0 text-center text-white">Made with ❤</p>
         </div>
     </footer>
+
+
+    
 
 
     <script>
