@@ -3,9 +3,72 @@
 
 > An app that makes communication with the deaf and dumb smart by converting their hand gestures to text which can be understood by normal person.
 
+### Links
+- [📹  Presentation Video](https://www.youtube.com/watch?v=0o3-icYknb4)
+- [👨🏻‍💼 Presentation File](./Paired.pdf)
+
+
 ### Motive
 
 For actions to speak louder than words Actum has been designed to enhance the communication between normal and specially abled (deaf and dumb).
+
+- Disabled people face difficulty in
+communicating with each other when at
+distance.
+- Chatting apps currently do not focus on
+connecting disabled people.
+- Communication using Sign Language
+feature is also not enabled in many apps.
+-  Communication using the Braille feature also
+lacks in many chatting apps.
+-  Current messaging apps are also not feasible
+for illiterate disabled people.
+
+### Features of Paired
+
+- The app can recognize American Sign
+Language from gestures using Machine
+Learning enabling Deaf and Dumb to
+send messages using it.
+-  Incoming messages will be converted
+from text to American Sign Language
+for the deaf and dumb people to
+recognize the messages even if they are
+not literate.
+-  Blind people can also send messages
+using their Braille.
+-  The incoming messages will also be
+converted to speech to enable blind
+people to hear the messages
+
+### Modus Operandi
+
+> 1. The web-based application takes in the data from
+the webcam available on the laptop/phone
+(machine). This data stream is processed to narrow
+down the live data stream.
+
+> 2. The data is now fed into a Cnn based machine
+learning model which makes a prediction on the basis
+of the symbols present in the video stream made by
+the user
+
+> 3. The predictions are displayed and fed to the chat for
+the user
+
+> 4. The Process of reading data, preprocessing the video
+stream and making predictions on the video is done
+for every time the User wants to send a message.
+
+> 5. Blind people will place their fingers over the
+button which has been placed at convenient
+locations for them.
+
+> 6. They will type the Braille messages which will be
+interpreted by the app and then the messages will
+be sent to the receiver in both speech and sign
+language form
+
 
 ### Technologies
 
@@ -17,10 +80,10 @@ For actions to speak louder than words Actum has been designed to enhance the co
 
 ### Testing
 
-<img src="sample.png" width="200">
+<img src="sample.png" width="240">
 
 
-### offline setup and run
+### Offline setup and run
 
 move to project root-  paired
 
