@@ -131,4 +131,10 @@ enter name ,email,password ,confirm password,and press y
 7. live
 http://127.0.0.1:8000/home/
 
+### Team Mates
+
+Arpit Srivastava
+Aman Raj 
+Aniket Dixit
+Souhard Swami
 
