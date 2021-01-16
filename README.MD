@@ -10,7 +10,7 @@
 
 ### Motive
 
-For actions to speak louder than words Paired has been designed to enhance the communication between normal and specially abled (deaf and dumb).
+For actions to speak louder than words, Paired has been designed to enhance the communication between normal and specially abled (deaf and dumb).
 
 - Disabled people face difficulty in
 communicating with each other when at
