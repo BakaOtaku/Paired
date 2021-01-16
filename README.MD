@@ -27,7 +27,7 @@ for illiterate disabled people.
 ### Features of Paired
 
 - The app can recognize American Sign
-Language from gestures using Machine
+Languages from gestures using Machine
 Learning enabling Deaf and Dumb to
 send messages using it.
 -  Incoming messages will be converted
